@@ -1,0 +1,22 @@
+{
+  "name": "pc-components",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@syncfusion/ej2": "^18.3.53",
+    "@syncfusion/ej2-data": "^18.3.47",
+    "@syncfusion/ej2-vue-dropdowns": "^18.3.53",
+    "axios": "^0.21.0",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
